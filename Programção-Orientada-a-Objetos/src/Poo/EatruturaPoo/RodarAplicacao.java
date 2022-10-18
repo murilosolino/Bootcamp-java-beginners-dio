@@ -1,4 +1,4 @@
-package estruturaPoo;
+package Poo.EatruturaPoo;
 
 public class RodarAplicacao {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package estruturaPoo;
+package Poo.EatruturaPoo;
 /*=========================================================================== */
 //Arquivo para a demosntração da estrutura da Ptogramação Orientada a Objetos 
 /*=========================================================================== */
