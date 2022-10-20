@@ -25,7 +25,7 @@ public class list {
          //imprimindo a lista
             System.out.println(notas);
 
-         //Procurando um determinado valor na lista
+         //Procurando um determinada posição na lista
             System.out.println("Exiba a posição da nota 8.8:  " + "posição: " + notas.indexOf(8.8));
 
          // Add uma nota numa determinada posição
